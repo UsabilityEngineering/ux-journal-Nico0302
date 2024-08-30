@@ -1,4 +1,4 @@
-# UX Portfolio
+# Nicolas' UX Portfolio
 
 Hi, I am Nicolas Gres and welcome to my UX Portfolio 👋
 
