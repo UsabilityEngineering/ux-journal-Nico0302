@@ -35,6 +35,7 @@ The correct action would have been to turn the heating mode knob to the bottom p
 
 > How to fix it?
 
-To address these issues, we could improve the *speed* label by calling it *duration*. This would make the knob more intuitive and proportional to the controlled variable (time).<br />Additionally, we could eliminate the chain control switch and incorporate it as a state in the *duration* knob.
+To address these issues, we could improve the *speed* label by calling it *duration*. This would make the knob proportional to the controlled variable (time).<br />
+Additionally, we could eliminate the chain control switch and incorporate it as a state in the *duration* knob.
 
 ![](improved.png)
