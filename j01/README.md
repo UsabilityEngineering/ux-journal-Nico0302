@@ -22,7 +22,7 @@ The heat can be controlled using the knob on the right, as indicated by the smal
 The knob on the left controls the speed, offering a good range of levels. However, there is a catch: which way should we turn the knob?
 Since $\tau$ is inversely proportional to $v$, increasing speed would decrease toastiness. This means we would need to turn the knob counterclockwise to prevent burning.<br />
 However, in this toaster, the number 1 is actually the fastest speed, while the number 7 is the slowest. So, we would need to turn the knob clockwise.
-The labeling on the machine is confusing, making it difficult to **map** the controls to our mental model.
+The labeling on the machine is confusing, making it difficult to **map** the controls to our **mental model**.
 
 This is not the only issue with this user interface.<br />
 Imagine you are a new employee of the hostel, exhausted from a long Friday shift. The last thing you have to do is turn off all the appliances in the dining area.
