@@ -12,7 +12,7 @@ Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](j01/)
+[The *Toast Incinerator* 🔥](j01/)
 
 
 ![CSU Chico and KIT Logo](./assets/logos_dark.svg#gh-dark-mode-only)
