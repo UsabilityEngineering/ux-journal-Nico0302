@@ -8,7 +8,7 @@ I am an exchange student at Chico State from Germany studying at [KIT](https://w
 
 ## UX Team Project
 
-Coming soon.
+[GoodDays](https://chicostate.github.io/ux-GoodDays/)
 
 ## UX Journal
 
