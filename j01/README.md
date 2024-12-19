@@ -1,5 +1,7 @@
 # The *Toast Incinerator* 🔥
 
+*by Nicolas Gres*
+
 Picture this: you are on a weekend trip to San Francisco, making breakfast in your hostel. You want to toast a slice of bread and come across this commercial conveyor toaster:
 
 ![Burned toast](burned_toast.jpg)
