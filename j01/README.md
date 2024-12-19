@@ -1,6 +1,6 @@
 # The *Toast Incinerator* 🔥
 
-*by Nicolas Gres*
+*by Nicolas Gres - 2024-12-19*
 
 Picture this: you are on a weekend trip to San Francisco, making breakfast in your hostel. You want to toast a slice of bread and come across this commercial conveyor toaster:
 
